@@ -40,7 +40,7 @@ Jupyter Notebook: Documentación y análisis
 
  Dataset: Disponible en [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
- Presentación: [PowerPoint](https://github.com/ariel-felix/churn-analysis/blob/main/pdf-telco.pdf)
+ Presentación: [PowerPoint](https://github.com/ariel-felix/churn-analysis/blob/main/presentacion-churn.pdf)
 
 ## 📬 Contacto
 
